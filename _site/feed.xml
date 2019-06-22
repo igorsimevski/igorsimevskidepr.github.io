@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Simevski</title>
+    <description>Igor Simevski's personal web-site. Enjoy!</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Jun 2019 12:16:29 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Jun 2019 12:16:29 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Test Blog</title>
+        <description>&lt;p&gt;Test test&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000//nodejs/2019/06/12/test-blog.html</link>
+        <guid isPermaLink="true">http://localhost:4000//nodejs/2019/06/12/test-blog.html</guid>
+        
+        <category>nodejs</category>
+        
+        
+        <category>Nodejs</category>
+        
+      </item>
+    
+      <item>
+        <title>code snippet test</title>
+        <description>&lt;p&gt;This is a raw snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;hello world
+123
+This is a text snippet
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This is a JavaScript snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const add = (a, b) =&amp;gt; a + b
+const minus = (a, b) =&amp;gt; a - b
+
+console.log(add(100,200))  // 300
+console.log(minus(100,200))  // -100
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This is a Python snippet:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;def say_hello():
+    print(&quot;hello world!&quot;)
+
+say_hello()   // &quot;hello world!&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Comment…&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Jun 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000//blog/2019/06/11/test-code-snippets.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2019/06/11/test-code-snippets.html</guid>
+        
+        <category>code</category>
+        
+        <category>snippet</category>
+        
+        
+        <category>BLOG</category>
+        
+      </item>
+    
+  </channel>
+</rss>

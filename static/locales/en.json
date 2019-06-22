@@ -1,0 +1,71 @@
+{
+  "website":{
+    "title": "Igor's site"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
+  },
+  "about_me":{
+    "about_me": "About Me",
+    "des": "I am M.Sc. in Electrical Engineering and IT and a Technical Lead."
+  },
+  "skills":{
+    "my_skills": "My Skills"
+  },
+  "projects":{
+    "my_projects": "My Projects",
+    "pdc": "Integration of VOIP services and metadata in various CRM systems. (Click2Call, Real-Time Call Info Display, Call Logging).",
+    "hls": "Real-time Audio processing / HLS Streaming Server fully developed with Bash and streamed by Nginx.",
+    "cc": "C Compiler developed with Java programming language and JavaCC Parser Generator. Developed own parser with help of JavaCC. The compiler’s output is assembly code for a dependable processor with an original instruction set developed by IHP Institute for High Performance Microelectronics in Frankfurt (Oder).",
+    "esa": "Web Application for reporting disasters around the World. Customer decided to use Liferay CMS for adding and managing content. I developed additional customer-specific customizations regarding the workflow of reporting a disaster, developed specific views using Liferay Portlets.",
+    "apc": "System for initiating gate opening depending on proximity to location. The system consists of Android application and Server managing location entries and call points.",
+    "rte": "A system that unifies event reporting to Police, Fire Departments and First Aid Medical departments. The system consists of Android application for Reporting real-time events (accidents, thefts, fires, medical emergencies, etc...) and Server for receiving and managing the events.",
+    "sunb": "Android application for Remote control of electric devices over Bluetooth Low Energy protocol. The off-grid system is powered by a battery charged by Sun collectors.",
+    "ubs": "Web Application - Calculator and Financial Advisor for (but not limited to) mortgages, performing complex calculations.",
+    "wht": "Web Application - Calculator for calculating withold tax of different types of transactions in different countries.",
+    "tie": "Web Application for organizing and sharing hospital data for patients between different hospitals.",
+    "tt": "Web Application for Entering and tracking time for all employees with Reporting Mechanisms for time spent by person/project.",
+    "pog": "JavaFx Desktop Application for easy tagging and searching of photos inside your computer. Includes face recognition algorithm.",
+    "ldap": "Web API for managing LDAP users (add user, change user group, change password).",
+    "rlb": "Android application for remote control of temperature, mode of work, fan speed and additional parameters over Wi-Fi.",
+    "conf": "Web Application based on Atlassian Confluence which includes a lot of customizations intended to meet company needs. It included plugins for managing and showing content, conference room planner, employee data organizer, etc.",
+    "hwsw2010": "The system provides 3D path mapping. Involves a robot sending data via Bluetooth to PC, which draws the robot's real-time 3D path.",
+    "hwsw2011": "Realization of a system for autonomous research of unknown terrain, akin to the Mars Rover. The system was comprised of an RP6 robot, RFID reader, GPRS modem, gyroscope, dsPIC microcontroller and a Personal Computer."
+  },
+  "career":{
+    "my_career": "My Career",
+    "my_education": "My Education",
+    "sentice": "Sentice Tech LLC",
+    "sentice_desc": "I started working as one of the first employees in Sentice Tech LLC, where besides leading several projects in several technologies, I am also involved in the setup and maintenance of all internal network and system architecture of the company.",
+    "sentice_date": "August 2015",
+    "sentice_job": "Senior Software Developer, Technical Lead & Sys Admin",
+    "netcetera": "Netcetera AG",
+    "netcetera_desc": "I started my professional programming career at Netcetera AG in Skopje, where I was involved in several Java EE projects using various Java techonlogies, some of which: Spring, Hibernate, JDBC, Servlets, JSP, Struts, etc. Gained valuable knowledge.",
+    "netcetera_date": "June 2012",
+    "netcetera_job": "Java Software Engineer",
+    "feit": "Faculty of Electrical Engineering and IT, UKIM, Skopje",
+    "feit_msc_date": "November 2011",
+    "feit_msc_desc": "Continued my studies involving several subjects from the fields of SoC and Nanoelectronics. Developed a C compiler for Dependable processor as a part of M.Sc. Thesis.",
+    "feit_msc_job": "M.Sc. Studies",
+    "feit_ta_date": "February 2011",
+    "feit_ta_desc": "Assisted students in finishing laboratory tasks. Worked with PIC16F877a microcontroller. Subject: Mictoelectronics.",
+    "feit_ta_job": "Teaching Assistant",
+    "feit_bsc_date": "October 2007",
+    "feit_bsc_desc": "Received solid science and engineering knowledge base. Participated in few competitions for the Faculty, one of which \"Hardware & Software\" international competition in 2011 when our team won the first prize.",
+    "feit_bsc_job": "B.Sc. Studies"
+  },
+  "blog":{
+    "my_blog": "My Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}

@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Sentice Tech LLC
+    i18n: sentice
+  desc:
+    detail: "I started working as one of the first employees in Sentice Tech LLC, where besides leading several projects in several technologies, I am also involved in the setup and maintenance of all internal network and system architecture of the company."
+    i18n: sentice_desc
+  date:
+    detail: August 2015
+    i18n: sentice_date
+  job:
+    detail: Senior Software Developer, Technical Lead & Sys Admin
+    i18n: sentice_job
+  icon: fa-plus-square
+
+- name:
+    detail: Netcetera AG
+    i18n: netcetera
+  desc:
+    detail: "I started my professional programming career at Netcetera AG in Skopje, where I was involved in several Java EE projects using various Java techonlogies, some of which: Spring, Hibernate, JDBC, Servlets, JSP, Struts, etc. Gained valuable knowledge."
+    i18n: netcetera_desc
+  date:
+    detail: June 2012
+    i18n: netcetera_date
+  job:
+    detail: Java Software Engineer
+    i18n: netcetera_job
+  icon: fa-plus-square
+
+- name:
+    detail: Faculty of Electrical Engineering and IT, UKIM, Skopje
+    i18n: feit
+  desc:
+    detail: "Assisted students in finishing laboratory tasks. Worked with PIC16F877a microcontroller. Subject: Mictoelectronics."
+    i18n: feit_ta_desc
+  date:
+    detail: February 2011
+    i18n: feit_ta_date
+  job:
+    detail: Teaching Assistant
+    i18n: feit_ta_job
+  icon: fa-plus-square
